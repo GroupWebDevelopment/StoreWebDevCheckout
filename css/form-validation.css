@@ -1,0 +1,14 @@
+.container {
+  max-width: 960px;
+}
+.my-0{
+  color: #11468F;
+}
+.product-img{
+  width: 50%;
+  height: 50%;
+}
+.inputIcons{
+  display: inline-block;
+  text-align: right;
+}
